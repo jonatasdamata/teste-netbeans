@@ -18,7 +18,7 @@ public class ProgramaPernas {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner teclado = new Scanner(System.in);
-        System.out.println("Quantas pernas?"); 
+        System.out.println("Quantas pernas? "); 
         int perna = teclado.nextInt();
         String tipo;
         System.out.println("Isso é um(a): ");
